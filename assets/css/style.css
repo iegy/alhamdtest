@@ -872,6 +872,7 @@ html[lang="ar"] .footer-col h4{ font-family:var(--font-body-ar); font-size:.95re
 }
 .stats-badge__circle svg{ width:30px; height:30px; color:#fff; }
 .stats-badge__circle--gold{ background:var(--gold-400); }
+.stats-badge__circle--red{ background:var(--red-500); }
 .stats-badge__circle--ember{ background:var(--ember-500); }
 .stats-badge__circle--dark{ background:var(--char-800); border:2px solid var(--gold-400); }
 .stats-badge__info{ display:flex; flex-direction:column; }
